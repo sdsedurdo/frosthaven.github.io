@@ -1,2 +1,0 @@
-# frosthaven.github.io
-Puzzles
